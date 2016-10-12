@@ -6,6 +6,15 @@ For many working with Open Source, good ideas or cool projects aren't the limiti
 
 This repo tries to collect ideas for Open Source projects that are up for grabs. It's much better for a project to see the light of day instead of slowly dying in a dusty Reminder-list in some way too small iCloud storage.
 
+See all the [current project suggestions](https://github.com/mikaelbr/open-source-ideas/issues). Or filter on
+
+- [`Little work`](https://github.com/mikaelbr/open-source-ideas/labels/Little%20work)
+- [`Medium work`](https://github.com/mikaelbr/open-source-ideas/labels/Medium%20work)
+- [`Much work`](https://github.com/mikaelbr/open-source-ideas/labels/Much%20work)
+
+Or if you are totally new to open source and development, you can check out
+- [`First Contribute`](https://github.com/mikaelbr/open-source-ideas/labels/First%Contribute)
+
 ## How it works
 
 Remember to watch the repo to get updates of all issues and comments.
@@ -14,7 +23,7 @@ Remember to watch the repo to get updates of all issues and comments.
 
 If there are anyone with cool ideas of projects but don't have the time to create it them self, post it as an issue on this repo, mark it with the appropriate label and advertise it if you so please.
 
-Try to include as much information as needed to implement the project, and be open to answer questions if necessary. Add a label to the project whether it is estimated to [`Little work`](https://github.com/mikaelbr/open-source-ideas/labels/Little%20work), [`Medium work`](https://github.com/mikaelbr/open-source-ideas/labels/Medium%20work) or [`Much work`](https://github.com/mikaelbr/open-source-ideas/labels/Much%20work). Also try to answer the issue template as correct as possible. If the project is perfect for first-timers, label the Issue as [`First Contribute`](https://github.com/mikaelbr/open-source-ideas/labels/First%Contribute).
+Try to include as much information as needed to implement the project, and be open to answer questions if necessary. Add a label to the project whether it is estimated to [`Little work`](https://github.com/mikaelbr/open-source-ideas/labels/Little%20work), [`Medium work`](https://github.com/mikaelbr/open-source-ideas/labels/Medium%20work) or [`Much work`](https://github.com/mikaelbr/open-source-ideas/labels/Much%20work). Also try to answer the issue template as correct as possible. If the project is perfect for first-timers, label the Issue as [`First Contribute`](https://github.com/mikaelbr/open-source-ideas/labels/First%Contribute).g
 
 ### I'm want to create a project
 
