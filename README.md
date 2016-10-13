@@ -15,6 +15,8 @@ See all the [current project suggestions](https://github.com/mikaelbr/open-sourc
 Or if you are totally new to open source and development, you can check out
 - [`First Contribute`](https://github.com/mikaelbr/open-source-ideas/labels/First%Contribute)
 
+To see track the progress of the initiative it self, see the [_Open Source Ideas Initiative planning_ project board](https://github.com/mikaelbr/open-source-ideas/projects/2).
+
 ## How it works
 
 Remember to watch the repo to get updates of all issues and comments.
