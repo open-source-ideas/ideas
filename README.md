@@ -25,7 +25,7 @@ If there are anyone with cool ideas of projects but don't have the time to creat
 
 Try to include as much information as needed to implement the project, and be open to answer questions if necessary. Add a label to the project whether it is estimated to [`Little work`](https://github.com/mikaelbr/open-source-ideas/labels/Little%20work), [`Medium work`](https://github.com/mikaelbr/open-source-ideas/labels/Medium%20work) or [`Much work`](https://github.com/mikaelbr/open-source-ideas/labels/Much%20work). Also try to answer the issue template as correct as possible. If the project is perfect for first-timers, label the Issue as [`First Contribute`](https://github.com/mikaelbr/open-source-ideas/labels/First%Contribute).g
 
-### I'm want to create a project
+### I want to create a project
 
 If you are Open Source-curious or just looking for your next project, you can look through the Issue-list and pick one of your liking. If you find anything of your liking, you can claim the issue by commenting on it and a repo-member will assign the issue to you. This means only one person can claim an issue at the time, but if there are people who want to cooperate, that's fantastic. Just make a comment and the person who claimed it the first can answer.
 
