@@ -29,7 +29,7 @@ Or by estimated required level:
 Or if you are totally new to open source and development, you can check out
 - [`First Contribute`](https://github.com/mikaelbr/open-source-ideas/labels/First%Contribute)
 
-To see track the progress of the initiative it self, see the [_Open Source Ideas Initiative planning_ project board](https://github.com/mikaelbr/open-source-ideas/projects/2).
+To see track the progress of the initiative it self, see the [_Open Source Ideas Initiative planning_ project board](https://github.com/mikaelbr/open-source-ideas/projects/2).  And see all projects that has been [completed through this initiative](./COMPLETED.md).
 
 ## How it works
 
