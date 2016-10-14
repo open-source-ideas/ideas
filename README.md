@@ -23,9 +23,9 @@ Remember to watch the repo to get updates of all issues and comments.
 
 ### I've got a ideas to share
 
-If there are anyone with cool ideas of projects but don't have the time to create it them self, post it as an issue on this repo, mark it with the appropriate label and advertise it if you so please.
+If there are anyone with cool ideas of projects but don't have the time to create it them self, [post it as an issue](https://github.com/mikaelbr/open-source-ideas/issues/new) on this repo, mark it with the appropriate label and advertise it if you so please.
 
-Try to include as much information as needed to implement the project, and be open to answer questions if necessary. Add a label to the project whether it is estimated to [`Little work`](https://github.com/mikaelbr/open-source-ideas/labels/Little%20work), [`Medium work`](https://github.com/mikaelbr/open-source-ideas/labels/Medium%20work) or [`Much work`](https://github.com/mikaelbr/open-source-ideas/labels/Much%20work). Also try to answer the issue template as correct as possible. If the project is perfect for first-timers, label the Issue as [`First Contribute`](https://github.com/mikaelbr/open-source-ideas/labels/First%Contribute).g
+Try to include as much information as needed to implement the project, and be open to answer questions if necessary. Add a label to the project whether it is estimated to [`Little work`](https://github.com/mikaelbr/open-source-ideas/labels/Little%20work), [`Medium work`](https://github.com/mikaelbr/open-source-ideas/labels/Medium%20work) or [`Much work`](https://github.com/mikaelbr/open-source-ideas/labels/Much%20work). Also try to answer the issue template as correct as possible. If the project is perfect for first-timers, label the Issue as [`First Contribute`](https://github.com/mikaelbr/open-source-ideas/labels/First%Contribute).
 
 ### I want to create a project
 
