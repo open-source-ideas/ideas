@@ -20,6 +20,12 @@ See all the [current project suggestions](https://github.com/mikaelbr/open-sourc
 - [`Medium work`](https://github.com/mikaelbr/open-source-ideas/labels/Medium%20work)
 - [`Much work`](https://github.com/mikaelbr/open-source-ideas/labels/Much%20work)
 
+Or by estimated required level:
+
+- [`Beginner`](https://github.com/mikaelbr/open-source-ideas/issues?q=is%3Aissue+is%3Aopen+label%3ABeginner)
+- [`Intermediate`](https://github.com/mikaelbr/open-source-ideas/issues?q=is%3Aissue+is%3Aopen+label%3AIntermediate)
+- [`Advanced`](https://github.com/mikaelbr/open-source-ideas/issues?q=is%3Aissue+is%3Aopen+label%3AAdvanced)
+
 Or if you are totally new to open source and development, you can check out
 - [`First Contribute`](https://github.com/mikaelbr/open-source-ideas/labels/First%Contribute)
 
