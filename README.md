@@ -6,6 +6,8 @@ For many working with Open Source, good ideas or cool projects aren't the limiti
 
 This repo tries to collect ideas for Open Source projects that are up for grabs. It's much better for a project to see the light of day instead of slowly dying in a dusty Reminder-list in some way too small iCloud storage.
 
+**Let's show what open in Open Source means, by creating a welcoming, inclusive and supporting community for all that want to be involved.** My hope is that we can get more people involved with Open Source, learning the customary behavior and to continue to drive the open community forward.
+
 See all the [current project suggestions](https://github.com/mikaelbr/open-source-ideas/issues). Or filter on
 
 - [`Little work`](https://github.com/mikaelbr/open-source-ideas/labels/Little%20work)
@@ -36,7 +38,3 @@ Feel free to keep the issue updated with the progress of the project and ask for
 ## If it already exists
 
 Often with Open Source a project already exists, but people aren't aware it does. If there are any issues opened that already exists, let us know and the issue will be closed.
-
----
-
-**Let's show what open in Open Source means, by creating a welcoming, inclusive and supporting community for all that want to be involved.** My hope is that we can get more people involved with Open Source, learning the customary behavior and to continue to drive the open community forward.
