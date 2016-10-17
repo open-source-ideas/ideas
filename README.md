@@ -43,7 +43,7 @@ Try to include as much information as needed to implement the project, and be op
 
 ### I want to create a project
 
-If you are Open Source-curious or just looking for your next project, you can look through the Issue-list and pick one of your liking. If you find anything of your liking, you can claim the issue by commenting on it and a repo-member will assign the issue to you. This means only one person can claim an issue at the time, but if there are people who want to cooperate, that's fantastic. Just make a comment and the person who claimed it the first can answer.
+If you are Open Source-curious or just looking for your next project, you can look through the Issue-list and pick one of your liking. If you find anything of your liking, you can join the issue by commenting on it. If there are people who want to cooperate, that's fantastic. Just make a comment and the person who joined it the first can answer.
 
 Feel free to keep the issue updated with the progress of the project and ask for help if needed. When the project is finished/published, the link to the published project and the issue can be closed.
 
