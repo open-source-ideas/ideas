@@ -9,3 +9,12 @@
 ## Who is this for
 
 [_Describe who this project is suited for. Experienced developers, novice, or beginners?_]
+
+
+---
+
+Share on Twitter/other social media if you will. Something like
+
+```
+New project on Open Source Ideas Initiative: [short description] – [link]
+```
