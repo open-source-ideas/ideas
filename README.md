@@ -1,4 +1,4 @@
-# Open Source Ideas
+# Open Source Ideas ![Slack](http://opensourceideas.herokuapp.com/badge.svg)
 
 > :open_hands: Ever had a cool idea to an Open Source project but didn't have the time to implement yourself? Let someone else give it a try!
 
