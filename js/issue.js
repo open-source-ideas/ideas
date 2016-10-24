@@ -22,7 +22,7 @@ $(document).ready(function () {
       document.title = data.title;
       $('#issue-title').html(data.title);
       $('#issue-a').attr('href', data.html_url);
-      $('#issue-body').html(markdown.toHTML(data.body)
+      $('#issue-body').html(marked(data.body)
         .replace(/h[1-6]/g, 'h5')
         .replace('<img', "<img class='responsive-img'")
       );
@@ -41,7 +41,7 @@ $(document).ready(function () {
         $('#comments').append(
           "<div class='col s12'><div class='card-panel'>" +
           "<strong>" + comment.user.login + "</strong><br>" +
-          markdown.toHTML(comment.body)
+          marked(comment.body)
             .replace('<img', "<img class='responsive-img'") +
           "</div></div>"
         );

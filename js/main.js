@@ -41,8 +41,9 @@ function show_issues_in_dom (issues) {
       issue.title +
       "</span> " +
       generate_label_html(issue.labels) + "<p>" +
-      remove_markdown(issue.body)
-        .replace(/^Project description\s/, '') +
+      marked(issue.body)
+        .replace('<img', '<img class="responsive-img"')
+        .replace(/h[1-6]/g, 'h5') +
       "</p>" + "</div><div class='card-action'>" +
       "<a href='" + create_issue_url(issue.number) +
       "'>Read more</a>" +
