@@ -1,0 +1,11 @@
+#cards {
+  margin-top: 1em;
+}
+
+.card-title, .chip {
+  vertical-align: middle;
+}
+
+.progress {
+  margin-top: 0;
+}
