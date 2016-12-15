@@ -2,7 +2,7 @@
 
 This is a collection of all projects that has been completed through this initative. Completed means ongoing or finished projects.
 
-###  [twobucks/slack-message](https://github.com/twobucks/slack-message)
+###  [mikaelbr/open-source-ideas](https://github.com/mikaelbr/open-source-ideas)
 
 - :white_check_mark: Completed by [@FredrikAugust](https://github.com/FredrikAugust)
 - :heart: Pitched in [issue #1](https://github.com/mikaelbr/open-source-ideas/issues/1) by [@mikaelbr](https://github.com/mikaelbr)
