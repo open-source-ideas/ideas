@@ -29,7 +29,7 @@ Or by estimated required level:
 - [`Advanced`](https://github.com/mikaelbr/open-source-ideas/issues?q=is%3Aissue+is%3Aopen+label%3AAdvanced)
 
 Or if you are totally new to open source and development, you can check out
-- [`First Contribute`](https://github.com/mikaelbr/open-source-ideas/labels/First%Contribute)
+- [`First Contribute`](https://github.com/mikaelbr/open-source-ideas/labels/First%20Contribute)
 
 To see track the progress of the initiative it self, see the [_Open Source Ideas Initiative planning_ project board](https://github.com/mikaelbr/open-source-ideas/projects/2).  And see all projects that has been [completed through this initiative](./COMPLETED.md).
 
