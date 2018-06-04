@@ -1,38 +1,38 @@
-# Open Source Ideas [![Slack](http://opensourceideas.herokuapp.com/badge.svg)](http://opensourceideas.herokuapp.com)
+# Open Source Ideas [![Slack](https://opensourceideas.herokuapp.com/badge.svg)](https://opensourceideas.herokuapp.com)
 
 > :open_hands: Ever had a cool idea to an Open Source project but didn't have the time to implement yourself? Let someone else give it a try!
 
-See all ideas in the [issues list](https://github.com/mikaelbr/open-source-ideas/issues) or on the project's homepage: https://open-source-ideas.github.io/open-source-ideas/.
+See all ideas in the [issues list](https://github.com/open-source-ideas/open-source-ideas/issues) or on the project's homepage: https://open-source-ideas.github.io/open-source-ideas/.
 
 For many working with Open Source, good ideas or cool projects aren't the limiting factor. Time is. But there are a lot of different people out there with various levels of experience and background. Some want to create open source projects, but don't know where to start or what to create. Why don't solve both these problems with the help of each other? :bird: :chicken: :boom:
 
 This repo tries to collect ideas for Open Source projects that are up for grabs. It's much better for a project to see the light of day instead of slowly dying in a dusty Reminder-list in some way too small iCloud storage.
 
-**Let's show what open in Open Source means, by creating a welcoming, inclusive and supporting community for all that want to be involved.** My hope is that we can get more people involved with Open Source, learning the customary behavior and to continue to drive the open community forward. [Read more about the initiative in the blog post](https://medium.com/@mikaelbrevik/open-source-ideas-initiative-ca747121ac34#.wpgzf4ksu).
+**Let's show what open in Open Source means, by creating a welcoming, inclusive and supporting community for all that want to be involved.** My hope is that we can get more people involved with Open Source, learning the customary behavior and to continue to drive the open community forward. [Read more about the initiative in the blog post](https://hackernoon.com/open-source-ideas-initiative-ca747121ac34).
 
 <div align="center">
-<img src="https://github.com/mikaelbr/open-source-ideas/blob/master/collaboration-five.jpg?raw=true" alt="Epic Collaboration Five" />
+<img src="https://github.com/open-source-ideas/open-source-ideas/blob/master/collaboration-five.jpg?raw=true" alt="Epic Collaboration Five" />
 </div>
 
 ---
 
-See all the [current project suggestions](https://github.com/mikaelbr/open-source-ideas/issues). Or filter on
+See all the [current project suggestions](https://github.com/open-source-ideas/open-source-ideas/issues). Or filter on
 
-* [`Little work`](https://github.com/mikaelbr/open-source-ideas/labels/Little%20work)
-* [`Medium work`](https://github.com/mikaelbr/open-source-ideas/labels/Medium%20work)
-* [`Much work`](https://github.com/mikaelbr/open-source-ideas/labels/Much%20work)
+* [`Little work`](https://github.com/open-source-ideas/open-source-ideas/labels/Little%20work)
+* [`Medium work`](https://github.com/open-source-ideas/open-source-ideas/labels/Medium%20work)
+* [`Much work`](https://github.com/open-source-ideas/open-source-ideas/labels/Much%20work)
 
 Or by estimated required level:
 
-* [`Beginner`](https://github.com/mikaelbr/open-source-ideas/issues?q=is%3Aissue+is%3Aopen+label%3ABeginner)
-* [`Intermediate`](https://github.com/mikaelbr/open-source-ideas/issues?q=is%3Aissue+is%3Aopen+label%3AIntermediate)
-* [`Advanced`](https://github.com/mikaelbr/open-source-ideas/issues?q=is%3Aissue+is%3Aopen+label%3AAdvanced)
+* [`Beginner`](https://github.com/open-source-ideas/open-source-ideas/issues?q=is%3Aissue+is%3Aopen+label%3ABeginner)
+* [`Intermediate`](https://github.com/open-source-ideas/open-source-ideas/issues?q=is%3Aissue+is%3Aopen+label%3AIntermediate)
+* [`Advanced`](https://github.com/open-source-ideas/open-source-ideas/issues?q=is%3Aissue+is%3Aopen+label%3AAdvanced)
 
 Or if you are totally new to open source and development, you can check out
 
-* [`First Contribute`](https://github.com/mikaelbr/open-source-ideas/labels/First%20Contribute)
+* [`First Contribute`](https://github.com/open-source-ideas/open-source-ideas/labels/First%20Contribute)
 
-To track the progress of the initiative itself, see the [_Open Source Ideas Initiative planning_ project board](https://github.com/mikaelbr/open-source-ideas/projects/2), and see all projects that have been [completed through this initiative](./COMPLETED.md).
+To track the progress of the initiative itself, see the [_Open Source Ideas Initiative planning_ project board](https://github.com/open-source-ideas/open-source-ideas/projects/2), and see all projects that have been [completed through this initiative](./COMPLETED.md).
 
 This project adheres to the [Contributor Covenant code of conduct](./CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
 
@@ -42,9 +42,9 @@ Remember to watch the repo to get updates of all issues and comments.
 
 ### I've got an idea to share
 
-If there is anyone with cool ideas of projects that doesn't have the time to create it themselves, [post it as an issue](https://github.com/mikaelbr/open-source-ideas/issues/new) on this repo, mark it with the appropriate label and advertise it if you so please.
+If there is anyone with cool ideas of projects that doesn't have the time to create it themselves, [post it as an issue](https://github.com/open-source-ideas/open-source-ideas/issues/new) on this repo, mark it with the appropriate label and advertise it if you so please.
 
-Try to include as much information as needed to implement the project, and be open to answer questions if necessary. Add a label to the project whether it is estimated to be [`Little work`](https://github.com/mikaelbr/open-source-ideas/labels/Little%20work), [`Medium work`](https://github.com/mikaelbr/open-source-ideas/labels/Medium%20work) or [`Much work`](https://github.com/mikaelbr/open-source-ideas/labels/Much%20work). Also try to answer the issue template as correct as possible. If the project is perfect for first-timers, label the Issue as [`First Contribute`](https://github.com/mikaelbr/open-source-ideas/labels/First%Contribute).
+Try to include as much information as needed to implement the project, and be open to answer questions if necessary. Add a label to the project whether it is estimated to be [`Little work`](https://github.com/open-source-ideas/open-source-ideas/labels/Little%20work), [`Medium work`](https://github.com/open-source-ideas/open-source-ideas/labels/Medium%20work) or [`Much work`](https://github.com/open-source-ideas/open-source-ideas/labels/Much%20work). Also try to answer the issue template as correct as possible. If the project is perfect for first-timers, label the Issue as [`First Contribute`](https://github.com/open-source-ideas/open-source-ideas/labels/First%20Contribute).
 
 ### I want to create a project
 
