@@ -2,7 +2,7 @@
 
 > :open_hands: Ever had a cool idea to an Open Source project but didn't have the time to implement yourself? Let someone else give it a try!
 
-See all ideas in the [issues list](https://github.com/mikaelbr/open-source-ideas/issues) or on the project's homepage: http://open-source-ideas.github.io/open-source-ideas/.
+See all ideas in the [issues list](https://github.com/mikaelbr/open-source-ideas/issues) or on the project's homepage: https://open-source-ideas.github.io/open-source-ideas/.
 
 For many working with Open Source, good ideas or cool projects aren't the limiting factor. Time is. But there are a lot of different people out there with various levels of experience and background. Some want to create open source projects, but don't know where to start or what to create. Why don't solve both these problems with the help of each other? :bird: :chicken: :boom:
 
