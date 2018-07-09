@@ -16,6 +16,21 @@ about: Template for a new project idea.
 
 [_Describe who this project is suited for. Experienced developers, novice, or beginners?_]
 
+## Complexity and required time
+
+_Please only tick off one box in each category by changing `[ ]` to `[x]`. The labels on the project will then be updated by the maintainers as soon as possible._
+
+### Complexity
+
+- `[ ]` Beginner - This project requires no or little prior knowledge of the technolog(y|ies) specified to contribute to the project
+- `[ ]` Intermediate - The user should have some prior knowledge of the technolog(y|ies) to the point where they know how to use it, but not necessarily all the nooks and crannies of the technology
+- `[ ]` Advanced - The project requires the user to have a good understanding of all components of the project to contribute
+
+### Required time (ETA)
+
+- `[ ]` Little work - A couple of days
+- `[ ]` Medium work - A week or two
+- `[ ]` Much work - The project will take more than a couple of weeks and serious planning is required
 
 ---
 
