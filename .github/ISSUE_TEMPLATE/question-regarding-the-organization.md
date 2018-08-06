@@ -1,5 +1,5 @@
 ---
-name: Proposed change to OSI
+name: Question regarding the organization
 about: Post these to the meta repo (open-source-ideas/meta) instead of here.
 
 ---
