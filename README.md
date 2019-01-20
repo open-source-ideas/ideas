@@ -59,7 +59,7 @@ Remember to watch the repo to get updates on all issues and comments.
 
 ### I've got an idea to share
 
-If there is anyone with cool ideas for projects and doesn't have the time to create it themselves, [post it as an issue](https://github.com/open-source-ideas/open-source-ideas/issues/new) on this repo, mark it with the appropriate label and advertise it if you so please.
+If there is anyone with cool ideas for projects and doesn't have the time to create them, [post it as an issue](https://github.com/open-source-ideas/open-source-ideas/issues/new) on this repo, mark it with the appropriate label and advertise it if you so please.
 
 Try to include as much information as needed to implement the project, and be open to answering questions if necessary. Add a label to the project for whether it is estimated to be [`Little work`](https://github.com/open-source-ideas/open-source-ideas/labels/Little%20work), [`Medium work`](https://github.com/open-source-ideas/open-source-ideas/labels/Medium%20work) or [`Much work`](https://github.com/open-source-ideas/open-source-ideas/labels/Much%20work).
 <br/>
