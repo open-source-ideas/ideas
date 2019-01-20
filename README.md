@@ -75,7 +75,7 @@ Feel free to keep the issue updated with the progress of the project and ask for
 
 ## If it already exists
 
-As is often the case with Open Source, a project already exists, but people aren't aware that it does. If there are any issues opened that already exists, let us know and the issue will be closed.
+As is often the case with Open Source, a project already exists, but people aren't aware that it does. If there are any issues opened that already exist in the real world, let us know and the issue will be closed (with a link to the existing project for people to use).
 
 ---
 
