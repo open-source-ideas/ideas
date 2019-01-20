@@ -36,6 +36,7 @@ Or by tech category:
 * [`Frontend/UI`](https://github.com/open-source-ideas/open-source-ideas/labels)
 * [`AI/ML`](https://github.com/open-source-ideas/open-source-ideas/labels)
 * [`APIs/Backend`](https://github.com/open-source-ideas/open-source-ideas/labels)
+* [`Voice Assistant`](https://github.com/open-source-ideas/open-source-ideas/labels)
 * [`Developer Tooling`](https://github.com/open-source-ideas/open-source-ideas/labels)
 * [`Design/UX`](https://github.com/open-source-ideas/open-source-ideas/labels)
 * [`AR/VR`](https://github.com/open-source-ideas/open-source-ideas/labels)
