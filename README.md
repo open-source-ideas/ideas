@@ -61,8 +61,11 @@ Remember to watch the repo to get updates on all issues and comments.
 
 If there is anyone with cool ideas for projects and doesn't have the time to create it themselves, [post it as an issue](https://github.com/open-source-ideas/open-source-ideas/issues/new) on this repo, mark it with the appropriate label and advertise it if you so please.
 
-Try to include as much information as needed to implement the project, and be open to answering questions if necessary. Add a label to the project for whether it is estimated to be [`Little work`](https://github.com/open-source-ideas/open-source-ideas/labels/Little%20work), [`Medium work`](https://github.com/open-source-ideas/open-source-ideas/labels/Medium%20work) or [`Much work`](https://github.com/open-source-ideas/open-source-ideas/labels/Much%20work). Also try to answer the issue template as correctly as possible. If the project is perfect for first-timers, label the issue as [`First Contribute`](https://github.com/open-source-ideas/open-source-ideas/labels/First%20Contribute).
-Finally, try to label the issue with the most appropriate tech categor(y|ies) to attract excited, motivated developers to your idea!
+Try to include as much information as needed to implement the project, and be open to answering questions if necessary. Add a label to the project for whether it is estimated to be [`Little work`](https://github.com/open-source-ideas/open-source-ideas/labels/Little%20work), [`Medium work`](https://github.com/open-source-ideas/open-source-ideas/labels/Medium%20work) or [`Much work`](https://github.com/open-source-ideas/open-source-ideas/labels/Much%20work).
+<br/>
+Also, try to answer the issue template as correctly as possible. If the project is perfect for first-timers, label the issue as [`First Contribute`](https://github.com/open-source-ideas/open-source-ideas/labels/First%20Contribute).
+<br/>
+Finally, try to label the issue with the most appropriate tech categor(y|ies) to attract excited, motivated developers to your idea! (see list above)
 
 ### I want to create a project
 
