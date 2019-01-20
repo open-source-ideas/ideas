@@ -16,19 +16,19 @@ This repo tries to collect ideas for Open Source projects that are up for grabs.
 
 ---
 
-See all the [current project suggestions](https://github.com/open-source-ideas/open-source-ideas/issues). Or filter on:
+See all the [current project suggestions](https://github.com/open-source-ideas/open-source-ideas/issues). Or filter by required time (ETA):
 
 * [`Little work`](https://github.com/open-source-ideas/open-source-ideas/labels/Little%20work)
 * [`Medium work`](https://github.com/open-source-ideas/open-source-ideas/labels/Medium%20work)
 * [`Much work`](https://github.com/open-source-ideas/open-source-ideas/labels/Much%20work)
 
-Or by estimated experience level:
+Or filter by estimated experience level:
 
 * [`Beginner`](https://github.com/open-source-ideas/open-source-ideas/issues?q=is%3Aissue+is%3Aopen+label%3ABeginner)
 * [`Intermediate`](https://github.com/open-source-ideas/open-source-ideas/issues?q=is%3Aissue+is%3Aopen+label%3AIntermediate)
 * [`Advanced`](https://github.com/open-source-ideas/open-source-ideas/issues?q=is%3Aissue+is%3Aopen+label%3AAdvanced)
 
-Or by tech category:
+Or filter by tech category:
 
 * [`Mobile app`](https://github.com/open-source-ideas/open-source-ideas/labels)
 * [`IoT`](https://github.com/open-source-ideas/open-source-ideas/labels)
