@@ -38,6 +38,7 @@ Or filter by tech category:
 * [`APIs/Backend`](https://github.com/open-source-ideas/open-source-ideas/labels)
 * [`Voice Assistant`](https://github.com/open-source-ideas/open-source-ideas/labels)
 * [`Developer Tooling`](https://github.com/open-source-ideas/open-source-ideas/labels)
+* [`Extension/Plugin/Add-On`](https://github.com/open-source-ideas/open-source-ideas/labels)
 * [`Design/UX`](https://github.com/open-source-ideas/open-source-ideas/labels)
 * [`AR/VR`](https://github.com/open-source-ideas/open-source-ideas/labels)
 * [`Bots`](https://github.com/open-source-ideas/open-source-ideas/labels)
