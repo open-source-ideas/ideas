@@ -59,7 +59,7 @@ Remember to watch the repo to get updates on all issues and comments.
 
 ### I've got an idea to share
 
-If there is anyone with cool ideas for projects and doesn't have the time to create them, [post it as an issue](https://github.com/open-source-ideas/open-source-ideas/issues/new) on this repo, mark it with the appropriate label and advertise it if you so please.
+If there is anyone with cool ideas for projects and doesn't have the time to create them, [post it as an issue](https://github.com/open-source-ideas/open-source-ideas/issues/new) on this repo, mark it with the appropriate label(s) and advertise it if you so please.
 
 Try to include as much information as needed to implement the project, and be open to answering questions if necessary. Add a label to the project for whether it is estimated to be [`Little work`](https://github.com/open-source-ideas/open-source-ideas/labels/Little%20work), [`Medium work`](https://github.com/open-source-ideas/open-source-ideas/labels/Medium%20work) or [`Much work`](https://github.com/open-source-ideas/open-source-ideas/labels/Much%20work).
 <br/>
@@ -69,11 +69,11 @@ Finally, try to label the issue with the most appropriate tech categor(y|ies) to
 
 ### I want to create a project
 
-If you are Open Source-curious or just looking for your next project, you can look through the Issue-list and pick one of your liking. If anything captures your imagination, you can join the issue by commenting on it. If there are people who want to cooperate, that's fantastic. Just make a comment and the person who joined it first can answer.
+If you are Open Source-curious or just looking for your next project, you can look through the Issue-list and pick one of your liking. If anything captures your imagination, you can join the issue by commenting on it. If there are people who want to cooperate, that's fantastic. Just submit a comment and the person who created the issue can answer.
 
-Feel free to keep the issue updated with the progress of the project and ask for help if needed. When the project is finished/published, add a link to the published project and the issue can be closed (and you & your teammates will make the Completed Hall of Fame!)
+Feel free to keep the issue updated with the progress of the project and ask for help if needed. When the project is finished/published, add a link to the published project and the issue can be closed (and you & your teammates will make the Completed Hall of Fame below!)
 
-## If it already exists
+### If it already exists
 
 As is often the case with Open Source, a project already exists, but people aren't aware that it does. If there are any issues opened that already exist in the real world, let us know and the issue will be closed (with a link to the existing project for people to use).
 
