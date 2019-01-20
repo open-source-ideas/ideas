@@ -1,6 +1,6 @@
 # Completed Projects through the Open Source Ideas Initiative
 
-This is a collection of all projects that has been completed through this initative. Completed means ongoing or finished projects.
+This is a collection of all projects that has been completed through this initative.
 
 ###  [mikaelbr/open-source-ideas](https://github.com/mikaelbr/open-source-ideas)
 
