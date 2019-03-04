@@ -1,6 +1,6 @@
 # Open Source Ideas [![Slack](https://opensourceideas.herokuapp.com/badge.svg)](https://opensourceideas.herokuapp.com)
 
-> :open_hands: Ever had a cool idea to an Open Source project but didn't have the time to implement yourself? Let someone else give it a try!
+> :open_hands: Ever had a cool idea for an Open Source project but didn't have the time to implement it yourself? Let someone else give it a try!
 
 See all ideas in the [issues list](https://github.com/open-source-ideas/open-source-ideas/issues) or on the project's homepage: https://open-source-ideas.github.io ([source](https://github.com/open-source-ideas/open-source-ideas.github.io)). For discussions regarding the Open Source Ideas project it self, check out [meta](https://github.com/open-source-ideas/meta).
 
