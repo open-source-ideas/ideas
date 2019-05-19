@@ -27,3 +27,21 @@ about: Template for a new project idea. Remove comments before posting.
 - [ ] Little work - A couple of days
 - [ ] Medium work - A week or two
 - [ ] Much work - The project will take more than a couple of weeks and serious planning is required
+
+### Categories
+
+- [ ] Mobile app
+- [ ] IoT
+- [ ] Web app
+- [ ] Frontend/UI
+- [ ] AI/ML
+- [ ] APIs/Backend
+- [ ] Voice Assistant
+- [ ] Developer Tooling
+- [ ] Extension/Plugin/Add-On
+- [ ] Design/UX
+- [ ] AR/VR
+- [ ] Bots
+- [ ] Security
+- [ ] Blockchain
+- [ ] Futuristic Tech/Something Unique
