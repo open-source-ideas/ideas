@@ -82,11 +82,25 @@ As is often the case with Open Source, a project already exists, but people aren
 
 # Completed Hall of Fame
 
-(insert completed projects according to something like the following format):
-<br/>
-"<Project Name, Link to Project, Contributors, Fun Emoji>"
-<br/>
-(Add special recognition if someone has completed multiple projects)
+###  [mikaelbr/open-source-ideas](https://github.com/mikaelbr/open-source-ideas)
+
+- :white_check_mark: Completed by [@FredrikAugust](https://github.com/FredrikAugust)
+- :heart: Pitched in [issue #1](https://github.com/mikaelbr/open-source-ideas/issues/1) by [@mikaelbr](https://github.com/mikaelbr)
+
+###  [mysticmode/libreread](https://github.com/mysticmode/libreread)
+
+- :white_check_mark: Completed by [@mysticmode](https://github.com/mysticmode)
+- :heart: Pitched in [issue #11](https://github.com/mikaelbr/open-source-ideas/issues/11) by [@ocdtrekkie](https://github.com/ocdtrekkie)
+
+###  [twobucks/slack-message](https://github.com/twobucks/slack-message)
+
+- :white_check_mark: Completed by [@dinodsaurus](https://github.com/dinodsaurus)
+- :heart: Pitched in [issue #2](https://github.com/mikaelbr/open-source-ideas/issues/2) by [@mikaelbr](https://github.com/mikaelbr)
+
+### [fredrikaugust/bulk-renamer](https://github.com/FredrikAugust/bulk-renamer)
+
+- :white_check_mark: Completed by [@fredrikaugust](https://github.com/fredrikaugust)
+- :heart: Pitched in [issue #149](https://github.com/open-source-ideas/open-source-ideas/issues/149) by [@KOLANICH](https://github.com/KOLANICH)
 
 ---
 
