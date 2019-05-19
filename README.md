@@ -97,6 +97,11 @@ As is often the case with Open Source, a project already exists, but people aren
 - :white_check_mark: Completed by [@dinodsaurus](https://github.com/dinodsaurus)
 - :heart: Pitched in [issue #2](https://github.com/mikaelbr/open-source-ideas/issues/2) by [@mikaelbr](https://github.com/mikaelbr)
 
+### [bsonntag/npm-notifier](https://github.com/bsonntag/npm-notifier)
+
+- :white_check_mark: Completed by [@bsonntag](https://github.com/bsonntag)
+- :heart: Pitched in [issue #6](https://github.com/mikaelbr/open-source-ideas/issues/6) by [@mikaelbr](https://github.com/mikaelbr)
+
 ### [fredrikaugust/bulk-renamer](https://github.com/FredrikAugust/bulk-renamer)
 
 - :white_check_mark: Completed by [@fredrikaugust](https://github.com/fredrikaugust)
