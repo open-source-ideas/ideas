@@ -50,7 +50,7 @@ Or if you are totally new to open source and development, you can check out:
 
 * [`First Contribute`](https://github.com/open-source-ideas/open-source-ideas/labels/First%20Contribute)
 
-To track the progress of the initiative itself, see the [_Open Source Ideas Initiative planning_ project board](https://github.com/open-source-ideas/open-source-ideas/projects/2), and see all projects that have been [completed through this initiative](./COMPLETED.md).
+To track the progress of the initiative itself, see the [_Open Source Ideas Initiative planning_ project board](https://github.com/open-source-ideas/open-source-ideas/projects/2), and see all projects that have been completed further down in the README!
 
 This project adheres to the [Contributor Covenant code of conduct](./CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
 
