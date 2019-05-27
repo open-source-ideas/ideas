@@ -16,6 +16,8 @@ This repo tries to collect ideas for Open Source projects that are up for grabs.
 
 ---
 
+#### [Check out what's currently in the works!](https://github.com/open-source-ideas/open-source-ideas/labels/Joined)
+
 See all the [current project suggestions](https://github.com/open-source-ideas/open-source-ideas/issues). Or filter by required time (ETA):
 
 * [`Little work`](https://github.com/open-source-ideas/open-source-ideas/labels/Little%20work)
