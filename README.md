@@ -1,14 +1,14 @@
-# Open Source Ideas [![Slack](https://opensourceideas.herokuapp.com/badge.svg)](https://opensourceideas.herokuapp.com)
+# Open-Source Ideas [![Slack](https://opensourceideas.herokuapp.com/badge.svg)](https://opensourceideas.herokuapp.com)
 
-> :open_hands: Ever had a cool idea for an Open Source project but didn't have the time to implement it yourself? Let someone else give it a try!
+> :open_hands: Ever had a cool idea for an Open-Source project but didn't have the time to implement it yourself? Let someone else give it a try!
 
-See all ideas in the [issues list](https://github.com/open-source-ideas/open-source-ideas/issues) or on the project's homepage: https://open-source-ideas.github.io ([source](https://github.com/open-source-ideas/open-source-ideas.github.io)). For discussions regarding the Open Source Ideas project itself, check out [meta](https://github.com/open-source-ideas/meta).
+See all ideas in the [issues list](https://github.com/open-source-ideas/open-source-ideas/issues) or on the project's homepage: https://open-source-ideas.github.io ([source](https://github.com/open-source-ideas/open-source-ideas.github.io)). For discussions regarding the Open-Source Ideas project itself, check out [meta](https://github.com/open-source-ideas/meta).
 
-For many working with Open Source, good ideas or cool projects aren't the limiting factor. Time is. But there are a lot of different people out there with various levels of experience and background. Some want to create open source projects, but don't know where to start or what to create. Why don't we solve both of these problems with each other's help? :bird: :chicken: :boom:
+For many working with Open-Source, good ideas or cool projects aren't the limiting factor. Time is. But there are a lot of different people out there with various levels of experience and background. Some want to create open-source projects, but don't know where to start or what to create. Why don't we solve both of these problems with each other's help? :bird: :chicken: :boom:
 
-This repo tries to collect ideas for Open Source projects that are up for grabs. It's much better for a project to see the light of day instead of slowly dying in a dusty Reminders-list in some way-too-small iCloud storage.
+This repo tries to collect ideas for Open-Source projects that are up for grabs. It's much better for a project to see the light of day instead of slowly dying in a dusty Reminders-list in some way-too-small iCloud storage.
 
-**Let's show what open in Open Source means by creating a welcoming, inclusive and supportive community for all that want to be involved.** My hope is that we can get more people involved with Open Source, learning the customary behavior and continuing to drive the open community forward. [Read more about the initiative in the blog post](https://hackernoon.com/open-source-ideas-initiative-ca747121ac34).
+**Let's show what open in Open-Source means by creating a welcoming, inclusive and supportive community for all that want to be involved.** My hope is that we can get more people involved with Open-Source, learning the customary behavior and continuing to drive the open community forward. [Read more about the initiative in the blog post](https://hackernoon.com/open-source-ideas-initiative-ca747121ac34).
 
 <div align="center">
 <img src="https://github.com/open-source-ideas/open-source-ideas/blob/master/collaboration-five.jpg?raw=true" alt="Epic Collaboration Five" />
@@ -48,11 +48,11 @@ Or filter by tech category:
 * [`Blockchain`](https://github.com/open-source-ideas/open-source-ideas/labels)
 * [`Futuristic Tech/Something Unique`](https://github.com/open-source-ideas/open-source-ideas/labels)
 
-Or if you are totally new to open source and development, you can check out:
+Or if you are totally new to open-source and development, you can check out:
 
 * [`First Contribute`](https://github.com/open-source-ideas/open-source-ideas/labels/First%20Contribute)
 
-To track the progress of the initiative itself, see the [_Open Source Ideas Initiative planning_ project board](https://github.com/open-source-ideas/open-source-ideas/projects/2), and see all projects that have been completed further down in the README!
+To track the progress of the initiative itself, see the [_Open-Source Ideas Initiative planning_ project board](https://github.com/open-source-ideas/open-source-ideas/projects/2), and see all projects that have been completed further down in the README!
 
 This project adheres to the [Contributor Covenant code of conduct](./CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
 
@@ -72,13 +72,13 @@ Finally, try to label the issue with the most appropriate tech categor(y|ies) to
 
 ### I want to create a project
 
-If you are Open Source-curious or just looking for your next project, you can look through the Issue-list and pick one of your liking. If anything captures your imagination, you can join the issue by commenting on it. If there are people who want to cooperate, that's fantastic. Just submit a comment and the person who created the issue can answer.
+If you are Open-Source-curious or just looking for your next project, you can look through the Issue-list and pick one of your liking. If anything captures your imagination, you can join the issue by commenting on it. If there are people who want to cooperate, that's fantastic. Just submit a comment and the person who created the issue can answer.
 
 Feel free to keep the issue updated with the progress of the project and ask for help if needed. When the project is finished/published, add a link to the published project and the issue can be closed (and you & your teammates will make the Completed Hall of Fame below!)
 
 ### If it already exists
 
-As is often the case with Open Source, a project already exists, but people aren't aware that it does. If there are any issues opened that already exist in the real world, let us know and the issue will be closed (with a link to the existing project for people to use).
+As is often the case with Open-Source, a project already exists, but people aren't aware that it does. If there are any issues opened that already exist in the real world, let us know and the issue will be closed (with a link to the existing project for people to use).
 
 ---
 
