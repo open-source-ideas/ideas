@@ -32,21 +32,21 @@ Or filter by estimated experience level:
 
 Or filter by tech category:
 
-* [`Mobile app`](https://github.com/open-source-ideas/open-source-ideas/labels)
-* [`IoT`](https://github.com/open-source-ideas/open-source-ideas/labels)
-* [`Web app`](https://github.com/open-source-ideas/open-source-ideas/labels)
-* [`Frontend/UI`](https://github.com/open-source-ideas/open-source-ideas/labels)
-* [`AI/ML`](https://github.com/open-source-ideas/open-source-ideas/labels)
-* [`APIs/Backend`](https://github.com/open-source-ideas/open-source-ideas/labels)
-* [`Voice Assistant`](https://github.com/open-source-ideas/open-source-ideas/labels)
-* [`Developer Tooling`](https://github.com/open-source-ideas/open-source-ideas/labels)
-* [`Extension/Plugin/Add-On`](https://github.com/open-source-ideas/open-source-ideas/labels)
-* [`Design/UX`](https://github.com/open-source-ideas/open-source-ideas/labels)
-* [`AR/VR`](https://github.com/open-source-ideas/open-source-ideas/labels)
-* [`Bots`](https://github.com/open-source-ideas/open-source-ideas/labels)
-* [`Security`](https://github.com/open-source-ideas/open-source-ideas/labels)
-* [`Blockchain`](https://github.com/open-source-ideas/open-source-ideas/labels)
-* [`Futuristic Tech/Something Unique`](https://github.com/open-source-ideas/open-source-ideas/labels)
+* [`Mobile app`](https://github.com/open-source-ideas/open-source-ideas/labels/Mobile%20app)
+* [`IoT`](https://github.com/open-source-ideas/open-source-ideas/labels/IoT)
+* [`Web app`](https://github.com/open-source-ideas/open-source-ideas/labels/Web%20app)
+* [`Frontend/UI`](https://github.com/open-source-ideas/open-source-ideas/labels/Frontend%2FUI)
+* [`AI/ML`](https://github.com/open-source-ideas/open-source-ideas/labels/AI%2FML)
+* [`APIs/Backend`](https://github.com/open-source-ideas/open-source-ideas/labels/APIs%2FBackend)
+* [`Voice Assistant`](https://github.com/open-source-ideas/open-source-ideas/labels/Voice%20assistant)
+* [`Developer Tooling`](https://github.com/open-source-ideas/open-source-ideas/labels/Developer%20tooling)
+* [`Extension/Plugin/Add-On`](https://github.com/open-source-ideas/open-source-ideas/labels/Extension%2FPlugin%2FAdd-on)
+* [`Design/UX`](https://github.com/open-source-ideas/open-source-ideas/labels/Design%2FUX)
+* [`AR/VR`](https://github.com/open-source-ideas/open-source-ideas/labels/AR%2FVR)
+* [`Bots`](https://github.com/open-source-ideas/open-source-ideas/labels/Bots)
+* [`Security`](https://github.com/open-source-ideas/open-source-ideas/labels/Security)
+* [`Blockchain`](https://github.com/open-source-ideas/open-source-ideas/labels/Blockchain)
+* [`Futuristic Tech/Something Unique`](https://github.com/open-source-ideas/open-source-ideas/labels/Futuristic%20tech%2FUnique%20ideas)
 
 Or if you are totally new to open source and development, you can check out:
 
