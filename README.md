@@ -1,11 +1,3 @@
-# Open Source Ideas [![Slack](https://opensourceideas.herokuapp.com/badge.svg)](https://opensourceideas.herokuapp.com)
-
-> :open_hands: Ever had a cool idea for an Open Source project but didn't have the time to implement it yourself? Let someone else give it a try!
-
-See all ideas in the [issues list](https://github.com/open-source-ideas/open-source-ideas/issues) or on the project's homepage: https://open-source-ideas.github.io ([source](https://github.com/open-source-ideas/open-source-ideas.github.io)). For discussions regarding the Open Source Ideas project itself, check out [meta](https://github.com/open-source-ideas/meta).
-
-For many working with Open Source, good ideas or cool projects aren't the limiting factor. Time is. But there are a lot of different people out there with various levels of experience and background. Some want to create open source projects, but don't know where to start or what to create. Why don't we solve both of these problems with each other's help? :bird: :chicken: :boom:
-
 This repo tries to collect ideas for Open Source projects that are up for grabs. It's much better for a project to see the light of day instead of slowly dying in a dusty Reminders-list in some way-too-small iCloud storage.
 
 **Let's show what open in Open Source means by creating a welcoming, inclusive and supportive community for all that want to be involved.** My hope is that we can get more people involved with Open Source, learning the customary behavior and continuing to drive the open community forward. [Read more about the initiative in the blog post](https://hackernoon.com/open-source-ideas-initiative-ca747121ac34).
