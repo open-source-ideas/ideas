@@ -6,15 +6,15 @@ about: Template for a new project idea. Remove comments before posting.
 
 ## Project description
 
-[_Describe the project the best you can. Give any background information or link to resources that are necessary to understand the problem it is intended to solve. The more you elaborate on your idea, the easier it is to accomplish._]
+<!--[_Describe the project the best you can. Give any background information or link to resources that are necessary to understand the problem it is intended to solve. The more you elaborate on your idea, the easier it is to accomplish._]-->
 
 ## Relevant Technology
 
-[_Write what technology is relevant. What language, what platform, any particular library/framework/existing project it is based on?_]
+<!--[_Write what technology is relevant. What language, what platform, any particular library/framework/existing project it is based on?_]-->
 
 ## Complexity and required time
 
-[_Please only tick off one box in each category by changing `[ ]` to `[x]`. The labels on the project will then be updated by the maintainers as soon as possible._]
+<!--[_Please only tick off one box in each category by changing `[ ]` to `[x]`. The labels on the project will then be updated by the maintainers as soon as possible._]-->
 
 ### Complexity
 
