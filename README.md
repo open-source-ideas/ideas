@@ -84,6 +84,12 @@ As is often the case with Open Source, a project already exists, but people aren
 
 # Completed Hall of Fame
 
+### [AmruthPillai/All-The-Words-That-I-Know](https://github.com/AmruthPillai/All-The-Words-That-I-Know)
+
+- :white_check_mark: Completed by [@AmruthPillai](https://github.com/AmruthPillai)
+- :heart: Pitched in [issue #204](https://github.com/open-source-ideas/open-source-ideas/issues/204) by [@xenotropic](https://github.com/xenotropic)
+- :rocket: Website [pillai.xyz/word-game](https://pillai.xyz/word-game)
+
 ### [projectunic0rn/pub](https://github.com/projectunic0rn/pub)
 
 - :white_check_mark: Completed by [@rmjordas](https://github.com/rmjordas), [@rickywid](https://github.com/rickywid), [@aaron2212](https://github.com/aaron2212), [@roymoran](https://github.com/roymoran)
