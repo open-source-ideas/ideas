@@ -90,12 +90,11 @@ As is often the case with Open Source, a project already exists, but people aren
 
 - :white_check_mark: Completed by [@AmruthPillai](https://github.com/AmruthPillai)
 - :heart: Pitched in [issue #204](https://github.com/open-source-ideas/open-source-ideas/issues/204) by [@xenotropic](https://github.com/xenotropic)
-- :rocket: Website [pillai.xyz/word-game](https://pillai.xyz/word-game)
 
 ### [azz-eddine/nws_webapp](https://github.com/azz-eddine/nws_webapp)
 
 - :white_check_mark: Completed by [@azz-eddine](https://github.com/azz-eddine)
-- :heart: Pitched in [issue #204](https://github.com/open-source-ideas/open-source-ideas/issues/74) by [@xenotropic](https://github.com/xenotropic)
+- :heart: Pitched in [issue #74](https://github.com/open-source-ideas/open-source-ideas/issues/74) by [@xenotropic](https://github.com/xenotropic)
 - :rocket: Website [nws.overnightproject.com/](http://nws.overnightproject.com/)
 
 ### [projectunic0rn/pub](https://github.com/projectunic0rn/pub)
