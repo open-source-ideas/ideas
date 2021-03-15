@@ -85,7 +85,11 @@ As is often the case with Open Source, a project already exists, but people aren
 ---
 
 # Completed Hall of Fame
+### [roymoran/page](https://github.com/roymoran/page)
 
+- :white_check_mark: Completed by [@roymoran](https://github.com/roymoran)
+- :heart: Pitched in [issue #271](https://github.com/open-source-ideas/open-source-ideas/issues/271) by [@roymoran](https://github.com/roymoran)
+- :rocket: Website [pagecli.com](https://pagecli.com)
 ### [AmruthPillai/All-The-Words-That-I-Know](https://github.com/AmruthPillai/All-The-Words-That-I-Know)
 
 - :white_check_mark: Completed by [@AmruthPillai](https://github.com/AmruthPillai)
