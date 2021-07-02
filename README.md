@@ -12,10 +12,6 @@ This repo tries to collect ideas for Open Source projects that are up for grabs.
 
 **Let's show what open in Open Source means by creating a welcoming, inclusive and supportive community for all that want to be involved.** My hope is that we can get more people involved with Open Source, learning the customary behavior and continuing to drive the open community forward. [Read more about the initiative in the blog post](https://hackernoon.com/open-source-ideas-initiative-ca747121ac34).
 
-<div align="center">
-<img src="https://github.com/open-source-ideas/open-source-ideas/blob/master/collaboration-five.jpg?raw=true" alt="Epic Collaboration Five" />
-</div>
-
 ---
 
 #### [Check out what's currently in the works!](https://github.com/open-source-ideas/open-source-ideas/labels/Joined)
@@ -85,6 +81,10 @@ As is often the case with Open Source, a project already exists, but people aren
 ---
 
 # Completed Hall of Fame
+### [HamzaEzzRa/Multishot](https://github.com/HamzaEzzRa/Multishot)
+- :white_check_mark: Completed by [@HamzaEzzRa](https://github.com/HamzaEzzRa)
+- :heart: Pitched in [issue #234](https://github.com/open-source-ideas/open-source-ideas/issues/234) by [@AdrienDS](https://github.com/AdrienDS)
+
 ### [roymoran/page](https://github.com/roymoran/page)
 
 - :white_check_mark: Completed by [@roymoran](https://github.com/roymoran)
