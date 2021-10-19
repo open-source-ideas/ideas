@@ -1,3 +1,5 @@
+#### 🥇 Open Source Ideas have proudly led to *11 projects* coming to fruition in a perfect harmony of talent and the open source spirit, and has *over 200  ideas* for those looking for a new project!
+
 # 💡 Open Source Ideas
 
 > For many working with Open Source, good ideas or cool projects aren't the limiting factor. Time is. But there are a lot of different people out there with various levels of experience and background. Some want to create open source projects, but don't know where to start or what to create. Why don't we solve both of these problems with each other's help? :bird: :chicken: :boom:
