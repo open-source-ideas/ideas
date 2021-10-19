@@ -1,4 +1,4 @@
-# Open Source Ideas [![Slack](https://opensourceideas.herokuapp.com/badge.svg)](https://opensourceideas.herokuapp.com)
+# Open Source Ideas
 
 #### [View completed projects here!](#completed-hall-of-fame)
 
