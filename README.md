@@ -1,34 +1,27 @@
-# Open Source Ideas
+# 💡 Open Source Ideas
 
-#### [View completed projects here!](#completed-hall-of-fame)
+> For many working with Open Source, good ideas or cool projects aren't the limiting factor. Time is. But there are a lot of different people out there with various levels of experience and background. Some want to create open source projects, but don't know where to start or what to create. Why don't we solve both of these problems with each other's help? :bird: :chicken: :boom:
 
-> :open_hands: Ever had a cool idea for an Open Source project but didn't have the time to implement it yourself? Let someone else give it a try!
+Welcome to Open Source Ideas! 👋 This is a crowdsourced collection of open source ideas you can take inspiration from, join, or encourage others to attempt! The community is fueled by the dedicated contributors like yourself, and each and every idea is greatly appreciated!
 
-See all ideas in the [issues list](https://github.com/open-source-ideas/open-source-ideas/issues) or on the project's homepage: https://open-source-ideas.github.io ([source](https://github.com/open-source-ideas/open-source-ideas.github.io)). For discussions regarding the Open Source Ideas project itself, check out [meta](https://github.com/open-source-ideas/meta).
+If you would like to take a look at the existing ideas, head on over to the [issues page](https://github.com/open-source-ideas/ideas/issues)! We've also labelled and tagged every issue to make it easier for people like yourself to find them!
 
-For many working with Open Source, good ideas or cool projects aren't the limiting factor. Time is. But there are a lot of different people out there with various levels of experience and background. Some want to create open source projects, but don't know where to start or what to create. Why don't we solve both of these problems with each other's help? :bird: :chicken: :boom:
+<details>
+  <summary>Tags and filters</summary>
+  
+:muscle: Want to put in a minimal effort? Or perhaps build a rocketship? Got little time? Got a lot of time? Filter by estimated workload here!
+  
+* [`Little work`](https://github.com/open-source-ideas/ideas/labels/Little%20work)
+* [`Medium work`](https://github.com/open-source-ideas/ideas/labels/Medium%20work)
+* [`Much work`](https://github.com/open-source-ideas/ideas/labels/Much%20work)
 
-This repo tries to collect ideas for Open Source projects that are up for grabs. It's much better for a project to see the light of day instead of slowly dying in a dusty Reminders-list in some way-too-small iCloud storage.
+🧑‍💼 Are you just starting your programming carreer? Or are you taking a break from your senior backend developer position? Filter by difficulty?
 
-**Let's show what open in Open Source means by creating a welcoming, inclusive and supportive community for all that want to be involved.** My hope is that we can get more people involved with Open Source, learning the customary behavior and continuing to drive the open community forward. [Read more about the initiative in the blog post](https://hackernoon.com/open-source-ideas-initiative-ca747121ac34).
+* [`Beginner`](https://github.com/open-source-ideas/ideas/issues?q=is%3Aissue+is%3Aopen+label%3ABeginner)
+* [`Intermediate`](https://github.com/open-source-ideas/ideas/issues?q=is%3Aissue+is%3Aopen+label%3AIntermediate)
+* [`Advanced`](https://github.com/open-source-ideas/ideas/issues?q=is%3Aissue+is%3Aopen+label%3AAdvanced)
 
----
-
-#### [Check out what's currently in the works!](https://github.com/open-source-ideas/open-source-ideas/labels/Joined)
-
-See all the [current project suggestions](https://github.com/open-source-ideas/open-source-ideas/issues). Or filter by required time (ETA):
-
-* [`Little work`](https://github.com/open-source-ideas/open-source-ideas/labels/Little%20work)
-* [`Medium work`](https://github.com/open-source-ideas/open-source-ideas/labels/Medium%20work)
-* [`Much work`](https://github.com/open-source-ideas/open-source-ideas/labels/Much%20work)
-
-Or filter by estimated experience level:
-
-* [`Beginner`](https://github.com/open-source-ideas/open-source-ideas/issues?q=is%3Aissue+is%3Aopen+label%3ABeginner)
-* [`Intermediate`](https://github.com/open-source-ideas/open-source-ideas/issues?q=is%3Aissue+is%3Aopen+label%3AIntermediate)
-* [`Advanced`](https://github.com/open-source-ideas/open-source-ideas/issues?q=is%3Aissue+is%3Aopen+label%3AAdvanced)
-
-Or filter by tech category:
+🧐 Are you a sucker for the grand Internet of Things? Or perhaps you want to whip out your favorite OCR library and recognise some L's? Check out all our available categories!
 
 * [`Mobile app`](https://github.com/open-source-ideas/open-source-ideas/labels/Mobile%20app)
 * [`IoT`](https://github.com/open-source-ideas/open-source-ideas/labels/IoT)
@@ -45,26 +38,23 @@ Or filter by tech category:
 * [`Security`](https://github.com/open-source-ideas/open-source-ideas/labels/Security)
 * [`Blockchain`](https://github.com/open-source-ideas/open-source-ideas/labels/Blockchain)
 * [`Futuristic Tech/Something Unique`](https://github.com/open-source-ideas/open-source-ideas/labels/Futuristic%20tech%2FUnique%20ideas)
+</details>
 
-Or if you are totally new to open source and development, you can check out:
+If you're curious what other projects have started from this community, [take a look at the _Hall of Fame_](#completed-hall-of-fame)!
 
-* [`First Contribute`](https://github.com/open-source-ideas/open-source-ideas/labels/First%20Contribute)
+----------------
 
-To track the progress of the initiative itself, see the [_Open Source Ideas Initiative planning_ project board](https://github.com/open-source-ideas/open-source-ideas/projects/2), and see all projects that have been completed further down in the README!
+**Let's show what open in Open Source means by creating a welcoming, inclusive and supportive community for all that want to be involved.** My hope is that we can get more people involved with Open Source, learning the customary behavior and continuing to drive the open community forward. [Read more about the initiative in the blog post](https://hackernoon.com/open-source-ideas-initiative-ca747121ac34).
 
 This project adheres to the [Contributor Covenant code of conduct](./CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
 
-## How it works
-
-Remember to watch the repo to get updates on all issues and comments.
-
 ### I've got an idea to share
 
-If there is anyone with cool ideas for projects and doesn't have the time to create them, [post it as an issue](https://github.com/open-source-ideas/open-source-ideas/issues/new) on this repo, mark it with the appropriate label(s) and advertise it if you so please.
+If there is anyone with cool ideas for projects and doesn't have the time to create them, [post it as an issue](https://github.com/open-source-ideas/ideas/issues/new) on this repo, mark it with the appropriate label(s) and advertise it if you so please.
 
-Try to include as much information as needed to implement the project, and be open to answering questions if necessary. Add a label to the project for whether it is estimated to be [`Little work`](https://github.com/open-source-ideas/open-source-ideas/labels/Little%20work), [`Medium work`](https://github.com/open-source-ideas/open-source-ideas/labels/Medium%20work) or [`Much work`](https://github.com/open-source-ideas/open-source-ideas/labels/Much%20work).
+Try to include as much information as needed to implement the project, and be open to answering questions if necessary. Add a label to the project for whether it is estimated to be [`Little work`](https://github.com/open-source-ideas/ideas/labels/Little%20work), [`Medium work`](https://github.com/open-source-ideas/ideas/labels/Medium%20work) or [`Much work`](https://github.com/open-source-ideas/ideas/labels/Much%20work).
 <br/>
-Also, try to answer the issue template as correctly as possible. If the project is perfect for first-timers, label the issue as [`First Contribute`](https://github.com/open-source-ideas/open-source-ideas/labels/First%20Contribute).
+Also, try to answer the issue template as correctly as possible. If the project is perfect for first-timers, label the issue as [`First Contribute`](https://github.com/open-source-ideas/ideas/labels/First%20Contribute).
 <br/>
 Finally, try to label the issue with the most appropriate tech categor(y|ies) to attract excited, motivated developers to your idea! (see list above)
 
@@ -136,8 +126,3 @@ As is often the case with Open Source, a project already exists, but people aren
 
 - :white_check_mark: Completed by [@FredrikAugust](https://github.com/FredrikAugust)
 - :heart: Pitched in [issue #1](https://github.com/mikaelbr/open-source-ideas/issues/1) by [@mikaelbr](https://github.com/mikaelbr)
-
-
----
-
-<small>_(Cover image originally from [WorldArtsMe](http://worldartsme.com/))_</small>
