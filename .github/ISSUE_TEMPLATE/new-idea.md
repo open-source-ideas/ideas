@@ -1,6 +1,9 @@
 ---
 name: New Idea
 about: Template for a new project idea. Remove comments before posting.
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
