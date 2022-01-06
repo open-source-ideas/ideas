@@ -104,11 +104,6 @@ As is often the case with Open Source, a project already exists, but people aren
 - :white_check_mark: Completed by [@fredrikaugust](https://github.com/fredrikaugust)
 - :heart: Pitched in [issue #149](https://github.com/open-source-ideas/open-source-ideas/issues/149) by [@KOLANICH](https://github.com/KOLANICH)
 
-###  [mysticmode/libreread](https://github.com/mysticmode/libreread)
-
-- :white_check_mark: Completed by [@mysticmode](https://github.com/mysticmode)
-- :heart: Pitched in [issue #11](https://github.com/mikaelbr/open-source-ideas/issues/11) by [@ocdtrekkie](https://github.com/ocdtrekkie)
-
 ### [bsonntag/npm-notifier](https://github.com/bsonntag/npm-notifier)
 
 - :white_check_mark: Completed by [@bsonntag](https://github.com/bsonntag)
