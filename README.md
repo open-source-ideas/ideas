@@ -1,6 +1,6 @@
 # [Go to ideas ➡️](https://github.com/open-source-ideas/ideas/issues)
 
-#### 🥇 Open Source Ideas have proudly led to *11 projects* coming to fruition in a perfect harmony of talent and the open source spirit, and has *over 200  ideas* for those looking for a new project!
+#### 🥇 Open Source Ideas has proudly led to *11 projects* coming to fruition in a perfect harmony of talent and the open source spirit, and has *over 200  ideas* for those looking for a new project!
 
 # 💡 Open Source Ideas
 
