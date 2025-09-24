@@ -93,7 +93,6 @@ As is often the case with Open Source, a project already exists, but people aren
 
 - :white_check_mark: Completed by [@azz-eddine](https://github.com/azz-eddine)
 - :heart: Pitched in [issue #74](https://github.com/open-source-ideas/open-source-ideas/issues/74) by [@xenotropic](https://github.com/xenotropic)
-- :rocket: Website [nws.overnightproject.com/](http://nws.overnightproject.com/)
 
 ### [projectunic0rn/pub](https://github.com/projectunic0rn/pub)
 
