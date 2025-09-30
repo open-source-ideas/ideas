@@ -48,6 +48,13 @@ If you're curious what other projects have started from this community, [take a 
 
 ----------------
 
+## Fresh implementations
+
+| Idea | Implementation | Highlights |
+| ---- | -------------- | ---------- |
+| [#269](https://github.com/open-source-ideas/ideas/issues/269) | [Telegram Categorizer Bot](projects-implemented/telegram-categorizer-bot) | Inline quick actions, category prompts, optional channel archiving, full README + env template |
+| [#174](https://github.com/open-source-ideas/ideas/issues/174) | [Interactive C-Test Creator](projects-implemented/ctest-interactive) | Client-side generator with hint system, scoring, and configurable gap rules |
+
 **Let's show what open in Open Source means by creating a welcoming, inclusive and supportive community for all that want to be involved.** My hope is that we can get more people involved with Open Source, learning the customary behavior and continuing to drive the open community forward. [Read more about the initiative in the blog post](https://hackernoon.com/open-source-ideas-initiative-ca747121ac34).
 
 This project adheres to the [Contributor Covenant code of conduct](./CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.

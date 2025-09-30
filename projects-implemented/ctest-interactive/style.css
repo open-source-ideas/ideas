@@ -1,0 +1,243 @@
+:root {
+  color-scheme: light dark;
+  --bg: #111827;
+  --fg: #f9fafb;
+  --accent: #2563eb;
+  --accent-light: #60a5fa;
+  --muted: #9ca3af;
+  font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: radial-gradient(circle at top, rgba(37, 99, 235, 0.1), transparent 55%), var(--bg);
+  color: var(--fg);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+
+main {
+  width: min(900px, 90vw);
+  padding: 3rem 1.5rem 6rem;
+}
+
+header h1 {
+  margin-bottom: 0.25rem;
+  font-size: clamp(2rem, 4vw, 2.6rem);
+}
+
+header p {
+  margin-top: 0.25rem;
+  line-height: 1.6;
+  color: var(--muted);
+}
+
+.input-panel {
+  margin-top: 2.5rem;
+  display: grid;
+  gap: 0.75rem;
+}
+
+label {
+  font-weight: 600;
+}
+
+textarea {
+  resize: vertical;
+  padding: 0.75rem;
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  background: rgba(15, 23, 42, 0.8);
+  color: inherit;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+textarea:focus {
+  outline: 2px solid var(--accent);
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+button {
+  border: none;
+  border-radius: 999px;
+  padding: 0.6rem 1.2rem;
+  font-size: 0.95rem;
+  cursor: pointer;
+  background: rgba(255, 255, 255, 0.08);
+  color: inherit;
+  transition: transform 0.15s ease, background 0.2s ease;
+}
+
+button.primary {
+  background: linear-gradient(120deg, var(--accent), var(--accent-light));
+  color: white;
+}
+
+button:hover {
+  transform: translateY(-1px);
+}
+
+button:active {
+  transform: translateY(0);
+}
+
+.toolbar {
+  display: grid;
+  gap: 1rem;
+  margin-top: 3rem;
+  padding: 1.5rem;
+  border-radius: 16px;
+  background: rgba(17, 25, 40, 0.65);
+  backdrop-filter: blur(18px);
+  transition: max-height 0.3s ease, padding 0.3s ease;
+}
+
+.toolbar.collapsed {
+  max-height: 0;
+  padding: 0 1.5rem;
+  overflow: hidden;
+}
+
+.toolbar-toggle {
+  margin-top: 1.5rem;
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 10px;
+  padding: 0.5rem 0.9rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.option-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: flex-end;
+}
+
+.option {
+  display: grid;
+  gap: 0.3rem;
+}
+
+.option input {
+  border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(255, 255, 255, 0.06);
+  color: inherit;
+  padding: 0.35rem 0.6rem;
+  font-size: 0.95rem;
+  width: 6ch;
+}
+
+.option input:focus {
+  outline: 2px solid var(--accent-light);
+}
+
+#test-wrapper {
+  margin-top: 3rem;
+  padding: 1.75rem;
+  border-radius: 18px;
+  background: rgba(15, 23, 42, 0.65);
+  box-shadow: 0 25px 45px rgba(0, 0, 0, 0.35);
+  backdrop-filter: blur(20px);
+}
+
+.hidden {
+  display: none;
+}
+
+#test-container {
+  line-height: 2;
+  font-size: 1.1rem;
+}
+
+.gap {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  margin: 0.15rem 0.1rem;
+}
+
+.gap input {
+  width: clamp(4ch, 40%, 12ch);
+  padding: 0.2rem 0.35rem;
+  border-radius: 6px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.04);
+  color: inherit;
+  font-size: 1rem;
+  text-align: center;
+}
+
+.gap input.correct {
+  border-color: #22c55e;
+  background: rgba(34, 197, 94, 0.15);
+}
+
+.gap input.incorrect {
+  border-color: #f97316;
+  background: rgba(249, 115, 22, 0.15);
+}
+
+.hint-button {
+  padding: 0.2rem 0.5rem;
+  font-size: 0.8rem;
+  border-radius: 6px;
+  background: rgba(96, 165, 250, 0.2);
+}
+
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1.25rem;
+}
+
+#score-output {
+  font-weight: 600;
+  color: var(--accent-light);
+}
+
+footer {
+  position: fixed;
+  bottom: 1.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  width: min(90vw, 800px);
+  text-align: center;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+footer a {
+  color: var(--accent-light);
+}
+
+@media (max-width: 640px) {
+  main {
+    padding-top: 2rem;
+  }
+  .controls,
+  .option-group {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  footer {
+    position: static;
+    transform: none;
+    margin-top: 3rem;
+  }
+}

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>C-Test Creator</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main>
+    <header>
+      <h1>C-Test Creator &amp; Evaluator</h1>
+      <p>
+        Generate an interactive C-Test (cloze test) from any short text. Paste your paragraph below,
+        click <strong>Generate C-Test</strong>, and fill in the missing halves of the words. Use
+        hints when you get stuck and check your score at any time.
+      </p>
+    </header>
+
+    
+    <button id="toggle-toolbar" class="toolbar-toggle" type="button">
+      Test settings ⚙️
+    </button>
+    <section id="toolbar" class="toolbar">
+      <form id="options-form" class="options">
+        <div class="option-group">
+          <div class="option">
+            <label for="startSentence">Start blanking from sentence</label>
+            <input id="startSentence" name="startSentence" type="number" min="1" value="1" />
+          </div>
+          <div class="option">
+            <label for="skipWords">Skip words shorter than</label>
+            <input id="skipWords" name="skipWords" type="number" min="1" value="3" />
+          </div>
+          <label class="option">
+            <input type="checkbox" id="capitalizeHints" name="capitalizeHints" checked /> Capitalise hints
+          </label>
+        </div>
+      </form>
+    </section>
+
+    <section class="input-panel">
+      <label for="source-text">Source text</label>
+      <textarea id="source-text" rows="8" placeholder="Paste a text containing at least two sentences."></textarea>
+      <div class="actions">
+        <button id="load-sample" type="button">Load sample text</button>
+        <button id="generate" type="button" class="primary">Generate C-Test</button>
+        <button id="reset" type="button">Reset</button>
+      </div>
+    </section>
+
+    <section id="test-wrapper" class="hidden">
+      <div class="controls">
+        <button id="check-score" type="button" class="primary">Check score</button>
+        <button id="show-answers" type="button">Reveal answers</button>
+        <span id="score-output" aria-live="polite"></span>
+      </div>
+      <article id="test-container"></article>
+    </section>
+  </main>
+
+  <footer>
+    <p>
+      Inspired by <a href="https://en.wikipedia.org/wiki/C-test" target="_blank" rel="noopener">C-Test methodology</a>.
+      Source available on GitHub.
+    </p>
+  </footer>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>

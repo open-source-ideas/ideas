@@ -1,0 +1,1 @@
+"""Telegram Categorizer Bot package."""
